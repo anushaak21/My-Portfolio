@@ -4,7 +4,9 @@ It is built using HTML, CSS, and JavaScript and deployed via GitHub Pages for pu
 🚀 Features
 
 Responsive one-page portfolio layout.
+
 Navigation bar with active page highlighting.
+
 Sections for:
 About Me,
 Education,
